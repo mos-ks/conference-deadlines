@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conference Deadlines</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>AI Conference Deadlines</h1>
+    <p>Track deadlines, locations, and more for top AI conferences!</p>
+  </header>
+
+  <main>
+    <section id="filters">
+      <label for="subject-filter">Filter by Subject:</label>
+      <select id="subject-filter">
+        <option value="all">All</option>
+        <option value="SP">SP</option>
+        <option value="CV">CV</option>
+        <option value="NLP">NLP</option>
+      </select>
+    </section>
+
+    <section id="upcoming-conferences">
+      <h2>Upcoming Conferences</h2>
+      <div id="upcoming-list">
+        <!-- Conference list will be populated dynamically -->
+      </div>
+    </section>
+
+    <section id="past-conferences">
+      <h2>Past Conferences</h2>
+      <div id="past-list">
+        <!-- Past conferences will go here -->
+      </div>
+    </section>
+  </main>
+
+  <script src="assets/js/scripts.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+- title: BestConf
+  year: 2022
+  id: bestconf22
+  full_name: Best Conference for Anything
+  link: https://link-to-website.com
+  deadline: 2022-09-01 23:59
+  abstract_deadline: 2022-08-15 23:59
+  timezone: Asia/Seoul
+  place: Incheon, South Korea
+  date: September 18-22, 2022
+  start: 2022-09-18
+  end: 2022-09-22
+  paperslink: https://link-to-full-paper-list.com
+  pwclink: https://link-to-papers-with-code.com
+  hindex: 100.0
+  sub: SP
+  note: Important

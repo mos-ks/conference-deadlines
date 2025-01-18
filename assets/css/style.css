@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background: #f4f4f4;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  section {
+    margin: 20px;
+    padding: 10px;
+  }
+  
+  .conference {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  a {
+    color: #0073e6;
+  }
+  
+  .countdown {
+    font-weight: bold;
+    color: #ff4500;
+  }
+  
