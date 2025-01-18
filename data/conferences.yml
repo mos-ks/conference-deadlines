@@ -1,17 +1,177 @@
-- title: BestConf
-  year: 2022
-  id: bestconf22
-  full_name: Best Conference for Anything
-  link: https://link-to-website.com
-  deadline: 2022-09-01 23:59
-  abstract_deadline: 2022-08-15 23:59
-  timezone: Asia/Seoul
-  place: Incheon, South Korea
-  date: September 18-22, 2022
-  start: 2022-09-18
-  end: 2022-09-22
-  paperslink: https://link-to-full-paper-list.com
-  pwclink: https://link-to-papers-with-code.com
-  hindex: 100.0
+- title: IEEE IV
+  year: 2025
+  id: ieeeiv25
+  full_name: IEEE Intelligent Vehicles Symposium
+  link: https://iv2025.org
+  deadline: 2025-02-01 23:59
+  abstract_deadline: 2025-01-20 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://iv2025.org/accepted-papers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 50.0
   sub: SP
-  note: Important
+  note: Submission deadline for full papers.
+
+- title: UAI
+  year: 2025
+  id: uai25
+  full_name: Conference on Uncertainty in Artificial Intelligence
+  link: https://auai.org/uai2025
+  deadline: 2025-02-11 23:59
+  abstract_deadline: 2025-01-31 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://auai.org/uai2025/accepted-papers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 40.0
+  sub: AI
+  note: Early deadline for abstracts.
+
+- title: ICML
+  year: 2025
+  id: icml25
+  full_name: International Conference on Machine Learning
+  link: https://icml.cc
+  deadline: 2025-03-01 23:59
+  abstract_deadline: 2025-02-15 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://icml.cc/Conferences/2025/AcceptedPapers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 120.0
+  sub: ML
+  note: High-impact conference on machine learning.
+
+- title: ICCV
+  year: 2025
+  id: iccv25
+  full_name: International Conference on Computer Vision
+  link: https://iccv2025.thecvf.com
+  deadline: 2025-03-08 23:59
+  abstract_deadline: 2025-02-22 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://iccv2025.thecvf.com/accepted-papers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 150.0
+  sub: CV
+  note: Major conference in computer vision.
+
+- title: ECML
+  year: 2025
+  id: ecml25
+  full_name: European Conference on Machine Learning
+  link: https://ecmlpkdd2025.org
+  deadline: 2025-03-15 23:59
+  abstract_deadline: 2025-02-28 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://ecmlpkdd2025.org/accepted-papers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 80.0
+  sub: ML
+  note: European conference on data science and machine learning.
+
+- title: CoRL
+  year: 2025
+  id: corl25
+  full_name: Conference on Robot Learning
+  link: https://corlconf.org
+  deadline: 2025-04-29 23:59
+  abstract_deadline: 2025-04-15 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://corlconf.org/accepted-papers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 60.0
+  sub: Robotics
+  note: Robotics-focused conference on machine learning.
+
+- title: IEEE ITSC
+  year: 2025
+  id: ieeeitsc25
+  full_name: IEEE Intelligent Transportation Systems Conference
+  link: https://itsc.ieee.org
+  deadline: 2025-05-01 23:59
+  abstract_deadline: 2025-04-15 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://itsc.ieee.org/accepted-papers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 45.0
+  sub: Transportation
+  note: Focused on AI and transportation systems.
+
+- title: BMVC
+  year: 2025
+  id: bmvc25
+  full_name: British Machine Vision Conference
+  link: https://bmvc2025.org
+  deadline: 2025-05-10 23:59
+  abstract_deadline: 2025-04-25 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://bmvc2025.org/accepted-papers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 70.0
+  sub: CV
+  note: Premier British conference on machine vision.
+
+- title: NeurIPS
+  year: 2025
+  id: neurips25
+  full_name: Neural Information Processing Systems
+  link: https://neurips.cc
+  deadline: 2025-05-22 23:59
+  abstract_deadline: 2025-05-01 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://neurips.cc/Conferences/2025/AcceptedPapers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 180.0
+  sub: ML
+  note: One of the top AI conferences.
+
+- title: AAAI
+  year: 2025
+  id: aaai25
+  full_name: Association for the Advancement of Artificial Intelligence
+  link: https://aaai.org/Conferences/AAAI-25/
+  deadline: 2025-07-08 23:59
+  abstract_deadline: 2025-06-25 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://aaai.org/Conferences/AA
+::contentReference[oaicite:0]{index=0}
+ 
