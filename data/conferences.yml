@@ -159,11 +159,10 @@
   hindex: 180.0
   sub: ML
   note: One of the top AI conferences.
-
 - title: AAAI
   year: 2025
   id: aaai25
-  full_name: Association for the Advancement of Artificial Intelligence
+  full_name: Association for the Advancement of Artificial Intelligence Conference
   link: https://aaai.org/Conferences/AAAI-25/
   deadline: 2025-07-08 23:59
   abstract_deadline: 2025-06-25 23:59
@@ -172,6 +171,98 @@
   date: TBD
   start: TBD
   end: TBD
-  paperslink: https://aaai.org/Conferences/AA
-::contentReference[oaicite:0]{index=0}
- 
+  paperslink: https://aaai.org/AcceptedPapers2025
+  pwclink: https://paperswithcode.com/sota
+  hindex: 150.0
+  sub: AI
+  note: Leading conference on artificial intelligence research.
+
+- title: WACV
+  year: 2025
+  id: wacv25
+  full_name: IEEE Winter Conference on Applications of Computer Vision
+  link: https://wacv2025.thecvf.com
+  deadline: 2025-07-15 23:59
+  abstract_deadline: 2025-07-01 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://wacv2025.thecvf.com/accepted-papers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 80.0
+  sub: CV
+  note: Winter conference on applications of computer vision.
+
+- title: ICRA
+  year: 2025
+  id: icra25
+  full_name: IEEE International Conference on Robotics and Automation
+  link: https://icra2025.ieee-ras.org
+  deadline: 2025-09-01 23:59
+  abstract_deadline: 2025-08-15 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://icra2025.ieee-ras.org/accepted-papers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 140.0
+  sub: Robotics
+  note: Premier conference in robotics and automation.
+
+- title: AISTATS
+  year: 2025
+  id: aistats25
+  full_name: International Conference on Artificial Intelligence and Statistics
+  link: https://aistats.org/aistats2025/
+  deadline: 2025-10-03 23:59
+  abstract_deadline: 2025-09-20 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://aistats.org/aistats2025/accepted-papers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 100.0
+  sub: AI
+  note: Conference bridging AI and statistics.
+
+- title: CVPR
+  year: 2025
+  id: cvpr25
+  full_name: Conference on Computer Vision and Pattern Recognition
+  link: https://cvpr2025.thecvf.com
+  deadline: 2025-11-08 23:59
+  abstract_deadline: 2025-10-25 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://cvpr2025.thecvf.com/accepted-papers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 200.0
+  sub: CV
+  note: Top-tier conference in computer vision.
+
+- title: ICLR
+  year: 2025
+  id: iclr25
+  full_name: International Conference on Learning Representations
+  link: https://iclr.cc
+  deadline: 2025-12-20 23:59
+  abstract_deadline: 2025-12-05 23:59
+  timezone: UTC
+  place: TBD
+  date: TBD
+  start: TBD
+  end: TBD
+  paperslink: https://iclr.cc/Conferences/2025/AcceptedPapers
+  pwclink: https://paperswithcode.com/sota
+  hindex: 170.0
+  sub: ML
+  note: Leading conference on deep learning and representation learning.
